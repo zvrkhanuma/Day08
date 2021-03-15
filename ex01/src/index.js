@@ -1,4 +1,4 @@
-// Write code belowe this line
+// Write code below this line
 function reusableFunction(){
 console.log("Hi Padawan!");
 }
